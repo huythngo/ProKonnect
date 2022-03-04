@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://huyngo:tom1082000@devconnector-j91ab.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "a05cb569bff5661435a6",
+    "githubSecret": "e991896edad1fa9130fb18241bea5c7dc73731a0"
+  }
