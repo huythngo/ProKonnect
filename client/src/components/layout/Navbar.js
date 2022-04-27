@@ -51,7 +51,7 @@ const Navbar = ({ auth: { isAuthenticated, loading, user }, logout }) => {
     <nav className='navbar bg-dark'>
       <h1>
         <Link to='/'>
-          <i class='fas fa-network-wired'></i> Social Network
+          <i class='fas fa-network-wired'></i> ProKonnect
         </Link>
       </h1>
       {!loading && (

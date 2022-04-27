@@ -10,8 +10,8 @@ const Landing = ({ isAuthenticated }) => {
     <section className='landing'>
       <div className='dark-overlay'>
         <div className='landing-inner'>
-          <h1 className='x-large'>Social Network</h1>
-          <p className='lead'>Your Social Network to Connect With Others</p>
+          <h1 className='x-large'>ProKonnect</h1>
+          <p className='lead'>Your ProKonnect to Connect With Others</p>
           <div className='buttons'>
             <Link to='/register' className='btn btn-primary'>
               Sign Up
